@@ -22,6 +22,7 @@ int main(int argc, char *argv[])
      +    }//s = 10!
      +    sr = s / 10;
      +    cout << s << " " << sr << endl;//vivod
-    cout << "Hallo,world\n";
+    cout << "1 Hallo,world\n";
+    cout << "2 Hallo,world\n";
     return 0;
 }
