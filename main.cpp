@@ -21,5 +21,6 @@ int main(int argc, char *argv[])
     }//s = 10!
     sr = s / 10;
     cout << s << " " << sr << endl;//vivod
+    //dlgjhdfhjgkssssss
     return 0;
 }
