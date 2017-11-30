@@ -13,6 +13,15 @@ int main(int argc, char *argv[])
 {
     cout << "* Create Object base" << endl;
     Base base;
-
+    +    cout << "* Create Object base" << endl;
+     +    int s = 0;//summa
+     +    double sr; //midle value
+     +    for(int i = 0; i < 10; ++i)
+     +    {
+     +        s += i;
+     +    }//s = 10!
+     +    sr = s / 10;
+     +    cout << s << " " << sr << endl;//vivod
+    cout << "Hallo,world\n";
     return 0;
 }
